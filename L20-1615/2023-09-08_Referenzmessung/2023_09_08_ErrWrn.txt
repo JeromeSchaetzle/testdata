@@ -1,0 +1,29 @@
+Time	Warnung
+01:29:46	Warnung	+System:Schaltschrank offen
+01:29:46	Warnung_DE	+System:Schaltschrank offen
+01:29:54	Error	+System:Laser ist ausgeschaltet
+01:29:54	Error_DE	+System:Laser ist ausgeschaltet
+01:31:44	Error	+System:Not-Halt
+01:31:44	Error_DE	+System:Not-Halt
+01:31:44	Warnung	+System:Interlock
+01:31:44	Warnung_DE	+System:Interlock
+01:31:44	Warnung	+System:Fehler Lichtschranke Ausgang
+01:31:44	Warnung_DE	+System:Fehler Lichtschranke Ausgang
+01:31:44	Warnung	+System:Extern Interlock
+01:31:44	Warnung_DE	+System:Extern Interlock
+01:36:34	Warnung	+Debug:Debug ist eingeschaltet
+01:36:34	Warnung_DE	+Debug:Debug ist eingeschaltet
+10:39:29	Error	-System:Not-Halt
+10:39:29	Error_DE	-System:Not-Halt
+10:39:29	Warnung	-System:Extern Interlock
+10:39:29	Warnung_DE	-System:Extern Interlock
+10:39:30	Warnung	-System:Interlock
+10:39:30	Warnung_DE	-System:Interlock
+10:39:31	Warnung	-System:Fehler Lichtschranke Ausgang
+10:39:31	Warnung_DE	-System:Fehler Lichtschranke Ausgang
+10:40:20	Warnung	+System:Fehler Lichtschranke Ausgang
+10:40:20	Warnung_DE	+System:Fehler Lichtschranke Ausgang
+10:40:30	Warnung	-System:Fehler Lichtschranke Ausgang
+10:40:30	Warnung_DE	-System:Fehler Lichtschranke Ausgang
+10:43:49	Warnung	-Debug:Debug ist eingeschaltet
+10:43:49	Warnung_DE	-Debug:Debug ist eingeschaltet
